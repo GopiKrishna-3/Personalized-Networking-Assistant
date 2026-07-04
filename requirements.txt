@@ -1,9 +1,5 @@
-fastapi
-uvicorn
 streamlit
 transformers
 torch
 wikipedia
-pytest
-httpx
 pydantic
